@@ -1,0 +1,42 @@
+
+.text{
+
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    width: 100%;
+}
+.textInValid{
+    background-color: pink;
+}
+
+.text:focus{
+    outline: none;
+    background-color: #ccc;;
+}
+
+.textDiv{
+    float: left;
+    width: 50%;
+}
+
+.content{
+
+    font-weight: bold;
+    float: left;
+    width: 50%;
+ 
+}
+
+
+
+.movieDetails button{
+    height: 50px;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    font-size: 25px;
+    border-radius: 20px
+}

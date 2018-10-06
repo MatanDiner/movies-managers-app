@@ -1,0 +1,12 @@
+.Modal{
+
+position: fixed;
+width:40%;
+border:1px solid #ccc;
+box-shadow:1px 1px 1px black;
+padding: 16px;
+top:30%;
+z-index: 500;
+left:30%;
+background-color:white;
+}

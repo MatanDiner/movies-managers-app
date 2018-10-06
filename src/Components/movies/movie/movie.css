@@ -1,0 +1,37 @@
+.movie{
+
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
+
+
+.img{
+
+height: 200px;
+width: 200px;
+}
+.editButton{
+    float: left;
+    width: 50%;
+}
+.deleteButton{
+    float: left;
+    width: 50%;
+}
+.buttonsDiv{
+    margin-top: 5%;
+}
+
+
+.tableDiv{
+    margin-left: 28%;
+}
+td.tableTd{
+    float: left;
+    font-size: 18px;
+    color: red;
+}

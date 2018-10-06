@@ -1,0 +1,64 @@
+.inputElement{
+
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    width: 100%;
+
+}
+
+.inputInValid{
+
+background-color: pink;
+}
+.addMessage{
+    color:red;
+    margin-top: 5%;
+    font-size: 20px;
+}
+.inputElement:focus{
+    outline: none;
+    background-color: #ccc;;
+}
+
+
+.elementDiv{
+    padding-top: 5%;
+}
+
+
+
+.OkButton{
+
+    padding: 0.3em 1.2em;
+    margin: 0 0.1em 0.1em 0;
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: green;
+    margin-top: 5%;
+}
+
+.cancelButton{
+    padding: 0.3em 1.2em;
+    margin: 0 0.1em 0.1em 0;
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: #dc3545;
+    margin-top: 5%;
+}
+
+.cancelButtonDiv{
+    float: left;
+    width: 50%;
+}
+
+.OkButtonDiv{
+    float: left;
+    width: 50%;
+}
