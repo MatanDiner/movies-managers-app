@@ -1,0 +1,184 @@
+{
+    "movies": [
+      {
+        "id": "1",
+        "Title": "Dog Day Afternoon",
+        "Year": "1975",
+        "Runtime": "125 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Dog Day Afternoon.jpg"
+      },
+      {
+        "id": "2",
+        "Title": "Batman",
+        "Year": "2012",
+        "Runtime": "150 min",
+        "Genre": "Crime",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/batman.jpg"
+      },
+      {
+        "id": "3",
+        "Title": "Xman",
+        "Year": "2016",
+        "Runtime": "100 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/xman.jpg"
+      },
+      {
+        "id": "4",
+        "Title": "Titanic",
+        "Year": "2002",
+        "Runtime": "125 min",
+        "Genre": "Biography,Drama",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Titanic.jpg"
+      },
+      {
+        "id": "5",
+        "Title": "Spiderman",
+        "Year": "2008",
+        "Runtime": "130 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/spiderman.jpg"
+      },
+      {
+        "id": "6",
+        "Title": "Snow White",
+        "Year": "2000",
+        "Runtime": "140 min",
+        "Genre": "Drama",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Snow White.jpg"
+      },
+      {
+        "id": "7",
+        "Title": "Cinderella",
+        "Year": "1995",
+        "Runtime": "120 min",
+        "Genre": "Drama",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Cinderella.jpg"
+      },
+      {
+        "id": "8",
+        "Title": "The Little Mermaid",
+        "Year": "1990",
+        "Runtime": "100 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/The Little Mermaid.jpg"
+      },
+      {
+        "id": "9",
+        "Title": "The Lion King",
+        "Year": "1998",
+        "Runtime": "120 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/The Lion King.jpg"
+      },
+      {
+        "id": "10",
+        "Title": "Aladdin",
+        "Year": "1990",
+        "Runtime": "100 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Aladdin.jpg"
+      },
+      {
+        "id": "11",
+        "Title": "Harry Potter",
+        "Year": "2005",
+        "Runtime": "100 min",
+        "Genre": "Action,Adventure ,Fantasy",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Harry Potter.jpg"
+      },
+      {
+        "id": "12",
+        "Title": "Troy",
+        "Year": "2011",
+        "Runtime": "150 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Troy.jpg"
+      },
+      {
+        "id": "13",
+        "Title": "Robin Hood",
+        "Year": "2018",
+        "Runtime": "100 min",
+        "Genre": "Action,Adventure",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Robin Hood.jpg"
+      },
+      {
+        "id": "14",
+        "Title": "Peter Pan",
+        "Year": "2000",
+        "Runtime": "130 min",
+        "Genre": "Action,Adventure ,Fantasy",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Peter Pan.jpg"
+      },
+      {
+        "id": "15",
+        "Title": "Lord Of The Rings",
+        "Year": "2006",
+        "Runtime": "140 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Lord of the Rings.jpg"
+      },
+      {
+        "id": "16",
+        "Title": "Venom",
+        "Year": "2018",
+        "Runtime": "100 min",
+        "Genre": "action",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Venom.jpg"
+      },
+      {
+        "id": "17",
+        "Title": "Slenderman",
+        "Year": "2018",
+        "Runtime": "150 min",
+        "Genre": "fear",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/slenderman.jpg"
+      },
+      {
+        "id": "18",
+        "Title": "Aquaman",
+        "Year": "2018",
+        "Runtime": "100 min",
+        "Genre": "Action,Adventure ,Fantasy",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Aquaman.jpg"
+      },
+      {
+        "id": "19",
+        "Title": "Antman",
+        "Year": "2018",
+        "Runtime": "120 min",
+        "Genre": "Action,Adventure ,Fantasy",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Antman.jpg"
+      },
+      {
+        "id": "20",
+        "Title": "Thor",
+        "Year": "2018",
+        "Runtime": "120 min",
+        "Genre": "Action,Adventure ,Fantasy",
+        "Director": "Sidney Lumet",
+        "img": "assets/images/Thor.jpg"
+      }
+    ]
+  }
