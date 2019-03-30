@@ -1,0 +1,103 @@
+
+
+.formDiv{
+    position: relative;
+    width: 200px;
+    left: 50%;
+    margin-left: -100px;
+}
+
+.textTitle{
+    font-weight: bold;
+}
+
+.text{
+
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    width: 100%;
+}
+.textInValid{
+    background-color: pink;
+}
+
+.text:focus{
+    outline: none;
+    background-color: #ccc;;
+}
+
+
+
+.textDiv{
+    float: left;
+    width: 50%;
+}
+
+.content{
+
+    font-weight: bold;
+    float: left;
+    width: 50%;
+ 
+}
+
+
+.movieDetails button{
+    height: 50px;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    font-size: 25px;
+    border-radius: 20px
+}
+
+
+
+
+
+
+
+
+.OkButton{
+
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: green;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+.cancelButton{
+
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: #dc3545;
+    margin-top: 5%;
+    float: right;
+    cursor: pointer;
+}
+
+.cancelButtonDiv{
+    float: left;
+    width: 50%;
+}
+
+.OkButtonDiv{
+    float: left;
+    width: 50%;
+}
+
+@media(max-width:499px){
+    .formDiv{
+        width: 190px;
+    }
+}
+
+

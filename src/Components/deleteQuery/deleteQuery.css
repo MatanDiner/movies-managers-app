@@ -1,0 +1,48 @@
+.deleteQuery{
+    position: relative;
+    width: 440px;
+    left: 50%;
+    margin-left: -220px;
+}
+.buttonsDiv{
+    position: relative;
+    width: 400px;
+    left: 50%;
+    margin-left: -150px;
+}
+.cancelButtonDiv{
+    float: left;
+    width: 50%
+}
+.OkButtonDiv{
+    float: left;
+    width: 50%
+}
+.cancelButton{
+    
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: #dc3545;
+    margin-top: 5%;
+    cursor: pointer;
+}
+.OkButton{
+    
+    border: 0.16em solid rgba(255,255,255,0);
+    border-radius: 2em;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+    background-color: green;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+
+@media(max-width:499px){
+  .P_Query{
+    max-width: 215px;
+    margin-left: 100px;
+  }
+}

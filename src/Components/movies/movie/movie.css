@@ -1,0 +1,94 @@
+.movieCard{
+
+    width: 400px;
+    display: inline-block;
+    margin: 16px auto;
+    background-color: #0C0471;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+     border-radius: 15px; 
+    margin-left: 15px;
+
+}
+
+
+img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 40px;
+    margin-left: 26px;
+}
+
+.textOverFlow{
+    overflow: overlay;
+    max-height: 37px;
+    max-width: 350px;
+    color: white;
+}
+
+.cardContentDiv{
+    position: relative;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+    text-align: -webkit-center;
+}
+
+.editButton{
+    float: left;
+    margin-right: 90px;
+}
+.deleteButton{
+    float: left;
+    
+}
+.buttonsDiv{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: #FD3D67;
+    border: 1px solid #FD3D67;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 8px;
+    width: 70px;
+    color: wheat;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tableDiv{
+    margin-left: 28%;
+}
+td.tableTd{
+    float: left;
+    font-size: 18px;
+    color: black;
+    background-color: #98E8FF;
+    overflow-y: overlay;
+    width: 90px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 1px;
+    font-weight: bold;
+
+}
+
+
+@media(max-width:499px){
+    .movieCard{
+        width: 350px;
+    }
+  }
+
+  @media(max-width:360px){
+    .movieCard{
+        width: 320px;
+    }
+  }
